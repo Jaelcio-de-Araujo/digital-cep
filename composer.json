@@ -1,0 +1,23 @@
+{
+    "name": "jaelcio.araujo/digital-cep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JaelcioAraujo\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jaelcio",
+            "email": "jaelcio@jaelcio.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "psr-0": {
+        "Seach": "src/"
+    }
+}
